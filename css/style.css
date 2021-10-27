@@ -1,0 +1,54 @@
+.head-logo{
+    text-align: center;
+}
+
+.search-box{
+    width: 80%;
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-left: 10%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.nav-ul{
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+.footer-copy{
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#nav-1{
+    background-color: #7EE5DA;
+    width: 30%;
+    height: 125px;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    margin-right: 5px;
+}
+
+#nav-2{
+    background-color: #70CCC2;
+    width: 20%;
+    height: 125px;
+    text-align: center;
+    float: left;
+    margin-right: 5px;
+    display: table-cell;
+    font-size: small;
+    font-weight: normal;
+}
+
+#nav-3{
+    background-color: #62B3AA;
+    width: 30%;
+    text-align: center;
+    float: left;
+    font-size:small;
+    font-weight: normal;
+}
